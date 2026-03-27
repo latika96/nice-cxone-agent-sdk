@@ -39,7 +39,7 @@ const CxaPlaceholder=()=>{
     };
 
 
-    CXoneClient.instance.switchContacts(sessionDetails);
+    // CXoneClient.instance.switchContacts(sessionDetails);
   }
   return (
     <> 
